@@ -17,6 +17,8 @@ export const translationsDE = {
   developer: 'Full-Stack-Entwickler, Juni 2022 - Mai 2023',
   university: 'Nationale Universität „Odessa Maritime Academy“',
   law: 'LLM, Seerecht, August 2003 - Juni 2009',
+  basketball: 'Basketball spielen',
+  traveling: 'Reisen',
   full: 'Full-Stack-Entwickler',
   summary: 'Zusammenfassung',
   text_first:
@@ -82,6 +84,8 @@ export const translationsEN = {
   developer: 'Full-Stack Developer, Jun 2022 - May 2023',
   university: 'National University „Odessa Maritime Academy“',
   law: 'LLM, Maritime law, Aug 2003 - Jun 2009',
+  basketball: 'Play basketball',
+  traveling: 'Traveling',
   full: 'Full-Stack Developer',
   summary: 'Summary',
   text_first:

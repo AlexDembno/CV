@@ -2,8 +2,6 @@ import { translationsDE, translationsEN } from './index.js';
 
 const langButton = document.getElementById('languageButton');
 
-// langButton.innerText = 'DE';
-
 document.addEventListener('DOMContentLoaded', () => {
   langButton.addEventListener('click', changeLanguage);
 });
